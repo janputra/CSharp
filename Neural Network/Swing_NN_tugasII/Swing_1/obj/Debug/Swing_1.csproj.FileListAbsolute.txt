@@ -1,0 +1,56 @@
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Elektronik Industri\Contoh Program\Swing_1\Swing_1\obj\Debug\ResolveAssemblyReference.cache
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Elektronik Industri\Contoh Program\Swing_1\Swing_1\obj\Debug\Swing_1.Form1.resources
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Elektronik Industri\Contoh Program\Swing_1\Swing_1\obj\Debug\Swing_1.Properties.Resources.resources
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Elektronik Industri\Contoh Program\Swing_1\Swing_1\obj\Debug\Swing_1.csproj.GenerateResource.Cache
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Elektronik Industri\Contoh Program\Swing_1\Swing_1\bin\Debug\Swing_1.exe
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Elektronik Industri\Contoh Program\Swing_1\Swing_1\bin\Debug\Swing_1.pdb
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Elektronik Industri\Contoh Program\Swing_1\Swing_1\obj\Debug\Swing_1.exe
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Elektronik Industri\Contoh Program\Swing_1\Swing_1\obj\Debug\Swing_1.pdb
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_1\Swing_1\obj\Debug\Swing_1.exe
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_1\Swing_1\obj\Debug\ResolveAssemblyReference.cache
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_1\Swing_1\obj\Debug\Swing_1.Form1.resources
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_1\Swing_1\obj\Debug\Swing_1.Properties.Resources.resources
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_1\Swing_1\obj\Debug\Swing_1.csproj.GenerateResource.Cache
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_1\Swing_1\bin\Debug\Swing_1.exe
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_1\Swing_1\bin\Debug\Swing_1.pdb
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_1\Swing_1\obj\Debug\Swing_1.pdb
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_2\Swing_1\obj\Debug\Swing_1.exe
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_2\Swing_1\obj\Debug\Swing_1.pdb
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_2\Swing_1\obj\Debug\ResolveAssemblyReference.cache
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_2\Swing_1\obj\Debug\Swing_1.Form1.resources
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_2\Swing_1\obj\Debug\Swing_1.Properties.Resources.resources
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_2\Swing_1\obj\Debug\Swing_1.csproj.GenerateResource.Cache
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_2\Swing_1\bin\Debug\Swing_1.exe
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_2\Swing_1\bin\Debug\Swing_1.pdb
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN\Swing_1\obj\Debug\Swing_1.exe
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN\Swing_1\obj\Debug\Swing_1.pdb
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN\Swing_1\obj\Debug\ResolveAssemblyReference.cache
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN\Swing_1\obj\Debug\Swing_1.Form1.resources
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN\Swing_1\obj\Debug\Swing_1.Properties.Resources.resources
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN\Swing_1\obj\Debug\Swing_1.csproj.GenerateResource.Cache
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN\Swing_1\bin\Debug\Swing_1.exe
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN\Swing_1\bin\Debug\Swing_1.pdb
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.exe
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.pdb
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN_tugasII\Swing_1\obj\Debug\ResolveAssemblyReference.cache
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.Form1.resources
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.Properties.Resources.resources
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.csproj.GenerateResource.Cache
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN_tugasII\Swing_1\bin\Debug\Swing_1.exe
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Sistem Kendali Modern\Program\Swing_NN_tugasII\Swing_1\bin\Debug\Swing_1.pdb
+D:\Kuliah\Semester 6\SKM\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.exe
+D:\Kuliah\Semester 6\SKM\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.pdb
+D:\Kuliah\Semester 6\SKM\Swing_NN_tugasII\Swing_1\bin\Debug\Swing_1.exe
+D:\Kuliah\Semester 6\SKM\Swing_NN_tugasII\Swing_1\bin\Debug\Swing_1.pdb
+D:\Kuliah\Semester 6\SKM\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\SKM\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.Form1.resources
+D:\Kuliah\Semester 6\SKM\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.Properties.Resources.resources
+D:\Kuliah\Semester 6\SKM\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 6\SKM\Tugas 2\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.exe
+D:\Kuliah\Semester 6\SKM\Tugas 2\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.pdb
+D:\Kuliah\Semester 6\SKM\Tugas 2\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\SKM\Tugas 2\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.Form1.resources
+D:\Kuliah\Semester 6\SKM\Tugas 2\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.Properties.Resources.resources
+D:\Kuliah\Semester 6\SKM\Tugas 2\Swing_NN_tugasII\Swing_1\obj\Debug\Swing_1.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 6\SKM\Tugas 2\Swing_NN_tugasII\Swing_1\bin\Debug\Swing_1.exe
+D:\Kuliah\Semester 6\SKM\Tugas 2\Swing_NN_tugasII\Swing_1\bin\Debug\Swing_1.pdb

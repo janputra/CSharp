@@ -1,0 +1,32 @@
+D:\Kuliah\Semester 5\DSP\Tugas\ArduinoReadSig\ArduinoReadSig\bin\Debug\ArduinoReadSig.exe
+D:\Kuliah\Semester 5\DSP\Tugas\ArduinoReadSig\ArduinoReadSig\bin\Debug\ArduinoReadSig.pdb
+D:\Kuliah\Semester 5\DSP\Tugas\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Kuliah\Semester 5\DSP\Tugas\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Kuliah\Semester 5\DSP\Tugas\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\DSP\Tugas\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.exe
+D:\Kuliah\Semester 5\DSP\Tugas\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.pdb
+D:\Kuliah\Semester 5\DSP\Tugas\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\DSP\Tugas\1221017_1221018_1221020_1221022_Sig3\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.exe
+D:\Kuliah\Semester 5\DSP\Tugas\1221017_1221018_1221020_1221022_Sig3\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.pdb
+D:\Kuliah\Semester 5\DSP\Tugas\1221017_1221018_1221020_1221022_Sig3\ArduinoReadSig\ArduinoReadSig\bin\Debug\ArduinoReadSig.exe
+D:\Kuliah\Semester 5\DSP\Tugas\1221017_1221018_1221020_1221022_Sig3\ArduinoReadSig\ArduinoReadSig\bin\Debug\ArduinoReadSig.pdb
+D:\Kuliah\Semester 5\DSP\Tugas\1221017_1221018_1221020_1221022_Sig3\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\DSP\Tugas\1221017_1221018_1221020_1221022_Sig3\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Kuliah\Semester 5\DSP\Tugas\1221017_1221018_1221020_1221022_Sig3\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Kuliah\Semester 5\DSP\Tugas\1221017_1221018_1221020_1221022_Sig3\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\DSP\Tugas\Test\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.exe
+D:\Kuliah\Semester 5\DSP\Tugas\Test\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.pdb
+D:\Kuliah\Semester 5\DSP\Tugas\Test\ArduinoReadSig\ArduinoReadSig\bin\Debug\ArduinoReadSig.exe
+D:\Kuliah\Semester 5\DSP\Tugas\Test\ArduinoReadSig\ArduinoReadSig\bin\Debug\ArduinoReadSig.pdb
+D:\Kuliah\Semester 5\DSP\Tugas\Test\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\DSP\Tugas\Test\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Kuliah\Semester 5\DSP\Tugas\Test\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Kuliah\Semester 5\DSP\Tugas\Test\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\Dasar Sistem Kendali\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.exe
+D:\Kuliah\Semester 5\Dasar Sistem Kendali\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.pdb
+D:\Kuliah\Semester 5\Dasar Sistem Kendali\ArduinoReadSig\ArduinoReadSig\bin\Debug\ArduinoReadSig.exe
+D:\Kuliah\Semester 5\Dasar Sistem Kendali\ArduinoReadSig\ArduinoReadSig\bin\Debug\ArduinoReadSig.pdb
+D:\Kuliah\Semester 5\Dasar Sistem Kendali\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\Dasar Sistem Kendali\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Kuliah\Semester 5\Dasar Sistem Kendali\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Kuliah\Semester 5\Dasar Sistem Kendali\ArduinoReadSig\ArduinoReadSig\obj\x86\Debug\ArduinoReadSig.csproj.GenerateResource.Cache

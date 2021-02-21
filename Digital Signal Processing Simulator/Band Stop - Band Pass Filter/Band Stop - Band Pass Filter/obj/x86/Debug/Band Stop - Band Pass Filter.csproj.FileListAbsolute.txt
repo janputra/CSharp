@@ -1,0 +1,17 @@
+D:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\bin\Debug\Band Stop - Band Pass Filter.exe
+D:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\bin\Debug\Band Stop - Band Pass Filter.pdb
+D:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\obj\x86\Debug\Band Stop - Band Pass Filter.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\obj\x86\Debug\Band Stop - Band Pass Filter.exe
+D:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\obj\x86\Debug\Band Stop - Band Pass Filter.pdb
+D:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\obj\x86\Debug\Band Stop - Band Pass Filter.csprojResolveAssemblyReference.cache
+H:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\bin\Debug\Band Stop - Band Pass Filter.exe
+H:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\bin\Debug\Band Stop - Band Pass Filter.pdb
+H:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\obj\x86\Debug\Band Stop - Band Pass Filter.csprojAssemblyReference.cache
+H:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+H:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\obj\x86\Debug\Band Stop - Band Pass Filter.csproj.GenerateResource.cache
+H:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\obj\x86\Debug\Band Stop - Band Pass Filter.csproj.CoreCompileInputs.cache
+H:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\obj\x86\Debug\Band Stop - Band Pass Filter.exe
+H:\Kuliah\Semester 5\DSP\Tugas\Band Stop - Band Pass Filter\Band Stop - Band Pass Filter\obj\x86\Debug\Band Stop - Band Pass Filter.pdb

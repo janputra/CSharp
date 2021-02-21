@@ -1,0 +1,26 @@
+D:\Kuliah\Semester 6\SKM\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.Form1.resources
+D:\Kuliah\Semester 6\SKM\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.Properties.Resources.resources
+D:\Kuliah\Semester 6\SKM\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 6\SKM\SOM_NN1_CSharp\SOM_NN1_CSharp\bin\Debug\SOM_NN1_CSharp.exe
+D:\Kuliah\Semester 6\SKM\SOM_NN1_CSharp\SOM_NN1_CSharp\bin\Debug\SOM_NN1_CSharp.pdb
+D:\Kuliah\Semester 6\SKM\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\SKM\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.exe
+D:\Kuliah\Semester 6\SKM\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.pdb
+D:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.exe
+D:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.pdb
+D:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\bin\Debug\SOM_NN1_CSharp.exe
+D:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\bin\Debug\SOM_NN1_CSharp.pdb
+D:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.Form1.resources
+D:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.Properties.Resources.resources
+D:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.csproj.GenerateResource.Cache
+F:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.exe
+F:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.pdb
+F:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\bin\Debug\SOM_NN1_CSharp.exe
+F:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\bin\Debug\SOM_NN1_CSharp.pdb
+F:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.csprojResolveAssemblyReference.cache
+F:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.Form1.resources
+F:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.Properties.Resources.resources
+F:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.csproj.GenerateResource.Cache
+H:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.exe
+H:\Kuliah\Semester 6\SKM\Tugas 1\SOM_NN1_CSharp\SOM_NN1_CSharp\obj\x86\Debug\SOM_NN1_CSharp.pdb

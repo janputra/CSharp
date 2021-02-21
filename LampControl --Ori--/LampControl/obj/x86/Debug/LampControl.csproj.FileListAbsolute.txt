@@ -1,0 +1,11 @@
+D:\Kuliah\Semester 6\Electronika Industri\LampControl\LampControl\bin\Debug\LampControl.exe
+D:\Kuliah\Semester 6\Electronika Industri\LampControl\LampControl\bin\Debug\LampControl.pdb
+D:\Kuliah\Semester 6\Electronika Industri\LampControl\LampControl\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Kuliah\Semester 6\Electronika Industri\LampControl\LampControl\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Kuliah\Semester 6\Electronika Industri\LampControl\LampControl\obj\x86\Debug\LampControl.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 6\Electronika Industri\LampControl\LampControl\obj\x86\Debug\LampControl.exe
+D:\Kuliah\Semester 6\Electronika Industri\LampControl\LampControl\obj\x86\Debug\LampControl.pdb
+D:\Kuliah\Semester 6\Electronika Industri\LampControl --Ori--\LampControl\obj\x86\Debug\LampControl.exe
+D:\Kuliah\Semester 6\Electronika Industri\LampControl --Ori--\LampControl\obj\x86\Debug\LampControl.pdb
+I:\Kuliah\Semester 6\Electronika Industri\LampControl --Ori--\LampControl\obj\x86\Debug\LampControl.exe
+I:\Kuliah\Semester 6\Electronika Industri\LampControl --Ori--\LampControl\obj\x86\Debug\LampControl.pdb

@@ -1,0 +1,63 @@
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Robotika\Program Robotika\arm_3dof\arm_3dof\obj\Debug\ResolveAssemblyReference.cache
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Robotika\Program Robotika\arm_3dof\arm_3dof\obj\Debug\arm_3dof.Form1.resources
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Robotika\Program Robotika\arm_3dof\arm_3dof\obj\Debug\arm_3dof.Properties.Resources.resources
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Robotika\Program Robotika\arm_3dof\arm_3dof\obj\Debug\arm_3dof.csproj.GenerateResource.Cache
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Robotika\Program Robotika\arm_3dof\arm_3dof\bin\Debug\arm_3dof.exe
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Robotika\Program Robotika\arm_3dof\arm_3dof\bin\Debug\arm_3dof.pdb
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Robotika\Program Robotika\arm_3dof\arm_3dof\obj\Debug\arm_3dof.exe
+D:\Kampus UIB\Jurusan T.Elektronika\Piranti Mata Kuliah\Robotika\Program Robotika\arm_3dof\arm_3dof\obj\Debug\arm_3dof.pdb
+D:\Kuliah\Semester 5\Robotika\Arm_manipulator\arm_3dof\arm_3dof\obj\Debug\arm_3dof.exe
+D:\Kuliah\Semester 5\Robotika\Arm_manipulator\arm_3dof\arm_3dof\obj\Debug\arm_3dof.pdb
+D:\Kuliah\Semester 5\Robotika\Arm_manipulator\arm_3dof\arm_3dof\obj\Debug\arm_3dof.Form1.resources
+D:\Kuliah\Semester 5\Robotika\Arm_manipulator\arm_3dof\arm_3dof\obj\Debug\arm_3dof.Properties.Resources.resources
+D:\Kuliah\Semester 5\Robotika\Arm_manipulator\arm_3dof\arm_3dof\obj\Debug\arm_3dof.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\Robotika\Arm_manipulator\arm_3dof\arm_3dof\bin\Debug\arm_3dof.exe
+D:\Kuliah\Semester 5\Robotika\Arm_manipulator\arm_3dof\arm_3dof\bin\Debug\arm_3dof.pdb
+D:\Kuliah\Semester 5\Robotika\Arm_manipulator\arm_3dof\arm_3dof\obj\Debug\arm_3dof.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.exe
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.pdb
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\arm_3dof\arm_3dof\bin\Debug\arm_3dof.exe
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\arm_3dof\arm_3dof\bin\Debug\arm_3dof.pdb
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.Form1.resources
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.Properties.Resources.resources
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.exe
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.pdb
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\bin\Debug\arm_3dof.exe.config
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\bin\Debug\arm_3dof.exe
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\bin\Debug\arm_3dof.pdb
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.Form1.resources
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.Properties.Resources.resources
+D:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.csproj.GenerateResource.Cache
+F:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\bin\Debug\arm_3dof.exe.config
+F:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.exe
+F:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.pdb
+F:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\bin\Debug\arm_3dof.exe
+F:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\bin\Debug\arm_3dof.pdb
+F:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\ResolveAssemblyReference.cache
+F:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.Form1.resources
+F:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.Properties.Resources.resources
+F:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\GenerateResource.read.1.tlog
+F:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\GenerateResource.write.1.tlog
+I:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\bin\Debug\arm_3dof.exe.config
+I:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\bin\Debug\arm_3dof.exe
+I:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\bin\Debug\arm_3dof.pdb
+I:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.csprojAssemblyReference.cache
+I:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.Form1.resources
+I:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.Properties.Resources.resources
+I:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.csproj.GenerateResource.cache
+I:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.csproj.CoreCompileInputs.cache
+I:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.exe
+I:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.pdb
+H:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\bin\Debug\arm_3dof.exe.config
+H:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\bin\Debug\arm_3dof.exe
+H:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\bin\Debug\arm_3dof.pdb
+H:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.csprojAssemblyReference.cache
+H:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.Form1.resources
+H:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.Properties.Resources.resources
+H:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.csproj.GenerateResource.cache
+H:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.csproj.CoreCompileInputs.cache
+H:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.exe
+H:\Kuliah\Semester 5\Robotika\Tugas\tugas 4\1221018_robotika_4\arm_3dof\arm_3dof\obj\Debug\arm_3dof.pdb

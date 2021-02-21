@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\NC-code UNSM\NC-code UNSM\bin\Release\NC-code UNSM.exe.config
+C:\Users\LENOVO\source\repos\NC-code UNSM\NC-code UNSM\bin\Release\NC-code UNSM.exe
+C:\Users\LENOVO\source\repos\NC-code UNSM\NC-code UNSM\bin\Release\NC-code UNSM.pdb
+C:\Users\LENOVO\source\repos\NC-code UNSM\NC-code UNSM\obj\Release\NC_code_UNSM.Form1.resources
+C:\Users\LENOVO\source\repos\NC-code UNSM\NC-code UNSM\obj\Release\NC_code_UNSM.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\NC-code UNSM\NC-code UNSM\obj\Release\NC-code UNSM.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\NC-code UNSM\NC-code UNSM\obj\Release\NC-code UNSM.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\NC-code UNSM\NC-code UNSM\obj\Release\NC-code UNSM.exe
+C:\Users\LENOVO\source\repos\NC-code UNSM\NC-code UNSM\obj\Release\NC-code UNSM.pdb
+C:\Users\LENOVO\source\repos\NC-code UNSM\NC-code UNSM\obj\Release\NC-code UNSM.csprojAssemblyReference.cache
